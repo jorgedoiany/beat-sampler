@@ -1,19 +1,14 @@
-
 # Beat Sampler
 
 The **Beat Sampler** project is an interactive application that simulates a MIDI controller with 9 different percussion instrument sounds and effects. By pressing the buttons on the interface, users can play these sounds, allowing them to create rhythms and experiment with musical combinations. It's ideal for musicians, producers, and anyone interested in music who wants to explore beat-making without the need for expensive equipment.
 
-
 ## Screenshots
 
-![App Screenshot](file:///Users/doianypeguero/Desktop/Age%20Tracker.png)
-
+![App Screenshot](./images/beat-img.png)
 
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript
-
-
 
 ## Prerequisites
 
@@ -39,7 +34,7 @@ The **Beat Sampler** project is an interactive application that simulates a MIDI
    - Right-click the `index.html` file and select `Open with Live Server`.
 
 That's it! You should now be able to see and use the **Beat Sampler** application in your browser.
+
 ## Author
 
 - [@jorgedoiany](https://github.com/jorgedoiany)
-
